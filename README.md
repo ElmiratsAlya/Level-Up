@@ -1,5 +1,4 @@
 # Level-Up
-<<<<<<< HEAD
 Level Up adalah sebuah media Pembelajaran Bahasa Inggris yang bertujuan untuk meningkatkan pengetahuan Bahasa Inggris sesuai dengan namanya. Level-Up berbasis web memiliki Menu utama
 a. Chapter didalamnya terdapat pembelajaran berupa Speaking, Reading dan Writing.
 b. Score penilaian terhadap latihan yang terla dikerjakan.
