@@ -6,5 +6,6 @@ How?
 1. Clone or download
 2. Ekstract file hasil download
 3. Masuk pada directory "production" 
-4. jalankan login "login.html"
-5. Done
+4. Jalankan login "login.html"
+5. Masuk sebagai username : admin dan password: admin
+6. Done
