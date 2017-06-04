@@ -1,8 +1,9 @@
 # Level-Up
 Level Up adalah sebuah media Pembelajaran Bahasa Inggris yang bertujuan untuk meningkatkan pengetahuan Bahasa Inggris sesuai dengan namanya. Level-Up berbasis web memiliki Menu utama
-a. Chapter didalamnya terdapat pembelajaran berupa Speaking, Reading dan Writing.
-b. Score penilaian terhadap latihan yang terla dikerjakan.
-c. Schedule jadwal pembelajaran, atau bisa disebut tugas yang harus dikerjakan 
+
+1. Chapter didalamnya terdapat pembelajaran berupa Speaking, Reading dan Writing.
+2. Score penilaian terhadap latihan yang terla dikerjakan.
+3. Schedule jadwal pembelajaran, atau bisa disebut tugas yang harus dikerjakan 
 
 How?
 
